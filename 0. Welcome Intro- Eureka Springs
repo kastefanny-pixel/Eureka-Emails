@@ -1,0 +1,603 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+    <link type="text/css" rel="stylesheet" id="dark-mode-custom-link">
+    <link type="text/css" rel="stylesheet" id="dark-mode-general-link">
+    <style lang="en" type="text/css" id="dark-mode-custom-style"></style>
+    <style lang="en" type="text/css" id="dark-mode-native-style"></style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no, date=no, email=no, address=no">
+    <meta name="x-apple-disable-message-reformatting">
+    <title></title>
+    <!--[if (mso 16)]> <style type="text/css"> a { text-decoration: none; } </style> <![endif]-->
+    <!--[if gte mso 9]> <style> sup { font-size: 100% !important; } </style> <![endif]-->
+    <!--[if gte mso 9]> <noscript>
+         <xml>
+           <o:OfficeDocumentSettings>
+           <o:AllowPNG></o:AllowPNG>
+           <o:PixelsPerInch>96</o:PixelsPerInch>
+           </o:OfficeDocumentSettings>
+         </xml>
+      </noscript> <![endif]-->
+    <link rel="stylesheet" href="/campaign/stripo/css/custom.css" type="text/css">
+    <!--[if gte mso 9]><style>sup { font-size: 100% !important; }</style><![endif]-->
+    <!--[if mso]><xml>
+    <w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word">
+      <w:DontUseAdvancedTypographyReadingMail></w:DontUseAdvancedTypographyReadingMail>
+    </w:WordDocument>
+    </xml><![endif]-->
+    <!--[if !mso]><!-- -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i" rel="stylesheet">
+    <!--<![endif]-->
+</head>
+
+<body class="es-wrapper-color" data-new-gr-c-s-loaded="14.1247.0">
+    <table class="es-wrapper" width="100%" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr>
+                <td class="esd-email-paddings" valign="top">
+                    <table cellpadding="0" cellspacing="0" class="es-content esd-footer-popover" align="center">
+                        <tbody>
+                            <tr>
+                                <td class="esd-stripe" align="center" bgcolor="#ffffff" style="background-color: #ffffff;">
+                                    <table bgcolor="#ffffff" class="es-content-body" align="center" cellpadding="0" cellspacing="0" width="650">
+                                        <tbody>
+                                            <tr class="es-mobile-hidden">
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left" bgcolor="#151515" style="background-color: #151515;" esd-custom-block-id="290574">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image es-m-p10t es-m-p10b es-m-p30r es-m-p30l" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4dpEk5/2025/07/09/8468be17-8559-4006-a5bf-56d31f7250b0.png?id=40338785" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="100" data-cf-ir-no-srcset="true" srcset="https://content.app-us1.com/cdn-cgi/image/width=100,dpr=1,fit=scale-down,format=auto,UNUSED_error=redirect/4dpEk5/2025/07/09/8468be17-8559-4006-a5bf-56d31f7250b0.png 1x,https://content.app-us1.com/cdn-cgi/image/width=100,dpr=2,fit=scale-down,format=auto,UNUSED_error=redirect/4dpEk5/2025/07/09/8468be17-8559-4006-a5bf-56d31f7250b0.png 2x,https://content.app-us1.com/cdn-cgi/image/width=100,dpr=3,fit=scale-down,format=auto,UNUSED_error=redirect/4dpEk5/2025/07/09/8468be17-8559-4006-a5bf-56d31f7250b0.png 3x,https://content.app-us1.com/cdn-cgi/image/width=100,dpr=4,fit=scale-down,format=auto,UNUSED_error=redirect/4dpEk5/2025/07/09/8468be17-8559-4006-a5bf-56d31f7250b0.png 4x"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="650" class="esd-container-frame" align="center" valign="top" esd-custom-block-id="290102">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text es-p10t es-p30b es-p30r es-p30l" spellcheck="false" aria-label="To enrich screen reader interactions, please activate Accessibility in Grammarly extension settings">
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <h1 style="font-size: 24px; color: #151515; font-family: 'times new roman', times, baskerville, georgia, serif;"><strong>Introducing The Springs Retreat – High Cash Flow, Tax-Advantaged Investment</strong></h1>
+                                                                                    <p style="color: #021a56; font-family: 'times new roman', times, baskerville, georgia, serif; font-size: 16px; display: none;"><br></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text es-p5t es-p30b es-p20r es-p20l">
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <p style="font-size: 16px; color: #151515;"><span style="color:#151515;">Hi %FIRSTNAME%,</span></p>
+                                                                                    <p style="font-size: 16px; color: #151515;"><span style="color:#151515;"><br></span></p>
+                                                                                    <p style="font-size: 16px; color: #151515;"><span style="color:#151515;">I’m thrilled to give you an exclusive first look at a project we’re quietly releasing to our inner circle before opening it to the public.</span></p>
+                                                                                    <p style="font-size: 16px; color: #151515;"><span style="color:#151515;"><br></span></p>
+                                                                                    <p style="font-size: 16px; color: #151515;"><span style="color:#151515;">We’re acquiring a <b>59-room property on 9.7 private acres in Eureka Springs, Arkansas</b>—a nationally recognized wellness destination—and transforming a forgotten hotel into <strong>The Springs Retreat & Spa, a design-forward wellness experiential resort tailored for the modern traveler.</strong></span></p>
+                                                                                    <p style="font-size: 16px;"><span style="color:#151515;"><br></span></p>
+                                                                                    <p style="font-size: 16px;"><span style="color:#151515;">We launched this quietly to our inner circle… and capital commitments came in almost instantly. We’re already <b>50% funded</b>—and moving fast.</span></p>
+                                                                                    <p style="font-size: 16px; color: #151515; display: none;"><br></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p20r es-p20l" align="left" esd-custom-block-id="290560">
+                                                    <!--[if mso]><table width="610" cellpadding="0" cellspacing="0"><tr><td width="350" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-left" align="left">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="350" class="es-m-p20b esd-container-frame" align="left">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text">
+                                                                                    <h1 style="font-size: 25px; font-family: 'times new roman', times, baskerville, georgia, serif; color: #151515;"><strong>Here’s What We're Building:</strong></h1>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text" spellcheck="false" aria-label="To enrich screen reader interactions, please activate Accessibility in Grammarly extension settings">
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <ul>
+                                                                                        <li>
+                                                                                            <p style="font-size: 16px; color: #151515;"><b>Elevated Wellness Amenities</b> Infrared/salt saunas, cold plunge, Jacuzzi, and tranquil relaxation zones.</p>
+                                                                                        </li>
+                                                                                        <li>
+                                                                                            <p style="font-size: 16px; color: #151515;"><strong><strong>Play & Connection:</strong></strong></p><span style="color: #151515; font-size: 16px;">Pickleball, mini golf, cinema, game room, and social BBQ areas for a vibrant guest experience</span>
+                                                                                        </li>
+                                                                                        <li>
+                                                                                            <p style="font-size: 16px;"><span style="color:#151515;"><b>Immersive Nature Experiences</b></span><br>Fireplaces, swings, and a treetop cinema for unforgettable nights under the stars.</p>
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td><td width="20"></td><td width="240" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-right" align="right">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="240" align="left" class="esd-container-frame">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank" href="https://drive.google.com/file/d/1V-wsnqo_EbjJLhGCIPazId2qorgwOCfu/view"><img class="adapt-img" src="https://content.app-us1.com/4dpEk5/2025/08/06/b13a7df0-ff5b-4dbb-8b76-ad2204ba65e6.png?id=40785617" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="240" srcset="https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=1/4dpEk5/2025/08/06/b13a7df0-ff5b-4dbb-8b76-ad2204ba65e6.png 1x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=2/4dpEk5/2025/08/06/b13a7df0-ff5b-4dbb-8b76-ad2204ba65e6.png 2x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=3/4dpEk5/2025/08/06/b13a7df0-ff5b-4dbb-8b76-ad2204ba65e6.png 3x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=4/4dpEk5/2025/08/06/b13a7df0-ff5b-4dbb-8b76-ad2204ba65e6.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td></tr></table><![endif]-->
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20r es-p20l" align="left" esd-custom-block-id="290104">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-button es-p20">
+                                                                                    <!--[if mso]><a href="https://thespringsretreat.space/#vision" target="_blank" hidden>
+	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://thespringsretreat.space/#vision" 
+                style="height:51px; v-text-anchor:middle; width:397px" arcsize="0%" strokecolor="#469fd3" strokeweight="1px" fillcolor="#2660f5">
+		<w:anchorlock></w:anchorlock>
+		<center style='color:#fcedd7; font-family:roboto, "helvetica neue", helvetica, arial, sans-serif; font-size:18px; font-weight:700; line-height:18px;  mso-text-raise:1px'>Watch the Short Vision Video</center>
+	</v:roundrect></a>
+<![endif]-->
+                                                                                    <!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-width: 2px; border-color: #469fd3; background: #2660f5;"><a href="https://thespringsretreat.space/#vision" class="es-button es-button-1651264945155" target="_blank" style="padding: 15px 70px; color: #fcedd7; background: #2660f5; font-weight: bold; font-size: 18px; mso-border-alt: 10px solid #2660f5" helvetica neue arial verdana sans-serif font-weight: bold>Watch the Short Vision Video</a></span>
+                                                                                    <!--<![endif]-->
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20t es-p15b es-p20r es-p20l" align="left" bgcolor="#f0f1f5" style="background-color: #f0f1f5;" esd-custom-block-id="290590">
+                                                    <!--[if mso]><table width="610" cellpadding="0" cellspacing="0"><tr><td width="210" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-left" align="left">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="190" class="es-m-p0r es-m-p20b esd-container-frame" align="center">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4dpEk5/2025/08/06/6e0f588a-2987-4501-88b9-d7e28205e666.png?id=40785532" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="190" srcset="https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=1/4dpEk5/2025/08/06/6e0f588a-2987-4501-88b9-d7e28205e666.png 1x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=2/4dpEk5/2025/08/06/6e0f588a-2987-4501-88b9-d7e28205e666.png 2x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=3/4dpEk5/2025/08/06/6e0f588a-2987-4501-88b9-d7e28205e666.png 3x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=4/4dpEk5/2025/08/06/6e0f588a-2987-4501-88b9-d7e28205e666.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="es-hidden" width="20"></td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td><td width="190" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-left" align="left">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="190" class="es-m-p20b esd-container-frame" align="center">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4dpEk5/2025/07/10/561d8791-f65e-4efd-842c-450805f0bc4c.png?id=40355314" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="190" srcset="https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=190,dpr=1,fit=scale-down/4dpEk5/2025/07/10/561d8791-f65e-4efd-842c-450805f0bc4c.png 1x,https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=190,dpr=2,fit=scale-down/4dpEk5/2025/07/10/561d8791-f65e-4efd-842c-450805f0bc4c.png 2x,https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=190,dpr=3,fit=scale-down/4dpEk5/2025/07/10/561d8791-f65e-4efd-842c-450805f0bc4c.png 3x,https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=190,dpr=4,fit=scale-down/4dpEk5/2025/07/10/561d8791-f65e-4efd-842c-450805f0bc4c.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td><td width="20"></td><td width="190" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-right" align="right">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="190" align="center" class="esd-container-frame">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4dpEk5/2025/08/06/2f9f5fbc-710e-4dc0-a0d2-f0465cea0faf.png?id=40785529" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="190" srcset="https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=1/4dpEk5/2025/08/06/2f9f5fbc-710e-4dc0-a0d2-f0465cea0faf.png 1x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=2/4dpEk5/2025/08/06/2f9f5fbc-710e-4dc0-a0d2-f0465cea0faf.png 2x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=3/4dpEk5/2025/08/06/2f9f5fbc-710e-4dc0-a0d2-f0465cea0faf.png 3x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=190,dpr=4/4dpEk5/2025/08/06/2f9f5fbc-710e-4dc0-a0d2-f0465cea0faf.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td></tr></table><![endif]-->
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p30t es-p20r es-p20l" align="left" esd-custom-block-id="290591">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td class="esd-block-text" bgcolor="#fffffa" spellcheck="false" aria-label="To enrich screen reader interactions, please activate Accessibility in Grammarly extension settings">
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <h1 style="font-size: 25px; font-family: 'times new roman', times, baskerville, georgia, serif; color: #151515;"><strong>Now lets talk some numbers...</strong></h1>
+                                                                                    <ul>
+                                                                                        <li style="font-size: 16px; color: #151515;">
+                                                                                            <p style="font-size: 16px; color: #151515;"><b>Projected IRR:</b>&nbsp;30%+</p>
+                                                                                        </li>
+                                                                                        <li style="font-size: 16px; color: #151515;"><b>3x Equity Multiple&nbsp;</b><b><i>(Triple Your Invested Capital)</i></b></li>
+                                                                                        <li style="font-size: 16px; color: #151515;"><b>Purchase Price:</b>&nbsp;$1.2M → just $20K/door</li>
+                                                                                        <li style="font-size: 16px; color: #151515;"><b>Stabilized Value:</b>&nbsp;$6.2M+</li>
+                                                                                        <li style="font-size: 16px; color: #151515;"><b>Bonus Land Use:</b>&nbsp;RV, glamping, weddings, retreats, F&B</li>
+                                                                                        <li style="font-size: 16px; color: #151515;"><b>Tax Advantages:</b>&nbsp;Cost segregation + bonus depreciation</li>
+                                                                                    </ul>
+                                                                                    <h1 style="font-family: 'times new roman', times, baskerville, georgia, serif; font-size: 25px; color: #151515; text-align: justify;"><br></h1>
+                                                                                    <h1 style="font-family: 'times new roman', times, baskerville, georgia, serif; font-size: 25px; color: #151515; text-align: justify;"><strong>Why This Stands Out?</strong></h1>
+                                                                                    <p style="font-size: 17px; color: #151515; text-align: justify;"><br></p>
+                                                                                    <p style="font-size: 17px; color: #151515; text-align: justify;">We launched this quietly… and capital commitments came in almost instantly. This is your chance to own a piece of something extraordinary:</p>
+                                                                                    <p style="font-size: 17px; color: #151515; text-align: justify;"><br></p>
+                                                                                    <p style="font-size: 17px; color: #151515; text-align: justify;">✔️<b>Already 50% Funded—</b>And Moving Fast<br>✔️ Built-in cash flow<br>✔️ Massive upside<br>✔️ Seller financing secured</p>
+                                                                                    <p style="font-size: 17px; color: #151515; text-align: justify;"><br></p>
+                                                                                    <h1 style="font-size: 25px; color: #151515; text-align: justify; font-family: 'times new roman', times, baskerville, georgia, serif;"><strong>Why Now:</strong></h1>
+                                                                                    <ul>
+                                                                                        <li style="font-size: 17px; color: #151515;">
+                                                                                            <p style="font-size: 17px; color: #151515;">The $1.3T wellness travel wave is accelerating—and expected to hit $8T by 2028.</p>
+                                                                                        </li>
+                                                                                        <li style="font-size: 17px; color: #151515;">
+                                                                                            <p style="font-size: 17px; color: #151515;">Walton-backed $34M+ investment fuels Eureka Springs.</p>
+                                                                                        </li>
+                                                                                        <li style="font-size: 17px; color: #151515;">
+                                                                                            <p style="font-size: 17px; color: #151515;">It’s a rare chance to enter a booming market—with a below replacement cost asset.</p>
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                    <p style="font-size: 17px; color: #151515;">This opportunity stands out as more than just a real estate investment—this is your chance to be part of something truly unique.</p>
+                                                                                    <p style="font-size: 17px; color: #151515;"><br></p>
+                                                                                    <p style="font-size: 17px; color: #151515;">As an investor, you’ll also have access to our exclusive wellness and networking retreat, hosted at the hotel, where you’ll connect with other investors and entrepreneurs once per year.</p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p35t es-p20r es-p20l" align="left" esd-custom-block-id="290592">
+                                                    <!--[if mso]><table width="610" cellpadding="0" cellspacing="0"><tr><td width="350" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-left" align="left">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="350" class="es-m-p20b esd-container-frame" align="left">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text">
+                                                                                    <h1 style="font-size: 25px; color: #151515; font-family: 'times new roman', times, baskerville, georgia, serif;"><strong>The Strategy:</strong></h1>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text">
+                                                                                    <p style="font-size: 17px; color: #000000;"><br></p>
+                                                                                    <p style="font-size: 17px; color: #000000;">We don’t just renovate—we reimagine.<br>We transform outdated motels into high-design, high-margin boutique stays that capture attention online and convert directly.</p>
+                                                                                    <p style="font-size: 17px; color: #000000;">Our edge?</p>
+                                                                                    <ul>
+                                                                                        <li style="color: #000000;">
+                                                                                            <p style="font-size: 17px; color: #000000;">Design</p>
+                                                                                        </li>
+                                                                                        <li style="color: #000000;">
+                                                                                            <p style="font-size: 17px; color: #000000;">Lean operations</p>
+                                                                                        </li>
+                                                                                        <li style="color: #000000;">
+                                                                                            <p style="font-size: 17px; color: #000000;">Tech automation</p>
+                                                                                        </li>
+                                                                                        <li style="color: #000000;">
+                                                                                            <p style="font-size: 17px; color: #000000;">Influencer marketing</p>
+                                                                                        </li>
+                                                                                        <li style="color: #000000;">
+                                                                                            <p style="font-size: 17px; color: #000000;">SEO + storytelling</p>
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                    <p style="display: none; color: #000000;"><br></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td><td width="20"></td><td width="240" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-right" align="right">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="240" align="left" class="esd-container-frame">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-image" style="font-size: 0px;"><a target="_blank"><img class="adapt-img" src="https://content.app-us1.com/4dpEk5/2025/07/07/8eb24e3a-ab6c-4e0b-bc1f-a918d95081af.png?id=40284692" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="240" srcset="https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=1/4dpEk5/2025/07/07/8eb24e3a-ab6c-4e0b-bc1f-a918d95081af.png 1x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=2/4dpEk5/2025/07/07/8eb24e3a-ab6c-4e0b-bc1f-a918d95081af.png 2x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=3/4dpEk5/2025/07/07/8eb24e3a-ab6c-4e0b-bc1f-a918d95081af.png 3x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=240,dpr=4/4dpEk5/2025/07/07/8eb24e3a-ab6c-4e0b-bc1f-a918d95081af.png 4x" data-cf-ir-no-srcset="true" data-cf-ir-width="650"></a></td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td></tr></table><![endif]-->
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20r es-p20l" align="left" esd-custom-block-id="290105">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text es-p10t es-p10b es-m-p25b">
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <p style="font-size: 17px; font-family: roboto, &quot;helvetica neue&quot;, helvetica, arial, sans-serif; color: #151515; line-height: 150%;"><span style="font-size: 18px; line-height: 150%;"><strong>Investor Bonus:&nbsp;</strong></span>Hotels offer unmatched tax advantages through cost segregation and bonus depreciation—boosting after-tax returns.</p>
+                                                                                    <p style="font-size: 17px; font-family: roboto, &quot;helvetica neue&quot;, helvetica, arial, sans-serif; color: #151515; line-height: 150%;"><br></p>
+                                                                                    <p style="font-size: 17px; font-family: roboto, &quot;helvetica neue&quot;, helvetica, arial, sans-serif; color: #151515; line-height: 150%;"><strong>This is your chance to own a piece of something extraordinary—something that will stand the test of time and redefine wellness experiences.</strong></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-button es-p20">
+                                                                                    <!--[if mso]><a href="https://drive.google.com/file/d/1HIRCz1EJw53aQbHrnvFuoSSaE6ac8ZZp/view" target="_blank" hidden>
+	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://drive.google.com/file/d/1HIRCz1EJw53aQbHrnvFuoSSaE6ac8ZZp/view" 
+                style="height:51px; v-text-anchor:middle; width:361px" arcsize="0%" strokecolor="#469fd3" strokeweight="1px" fillcolor="#2660f5">
+		<w:anchorlock></w:anchorlock>
+		<center style='color:#fcedd7; font-family:roboto, "helvetica neue", helvetica, arial, sans-serif; font-size:18px; font-weight:700; line-height:18px;  mso-text-raise:1px'>View Investor Summary</center>
+	</v:roundrect></a>
+<![endif]-->
+                                                                                    <!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-width: 2px; border-color: #469fd3; background: #2660f5;"><a href="https://drive.google.com/file/d/1HIRCz1EJw53aQbHrnvFuoSSaE6ac8ZZp/view" class="es-button es-button-1751975656737 msohide" target="_blank" style="color: #fcedd7; background: #2660f5; font-size: 18px; font-weight: bold; padding: 15px 70px; mso-border-alt: 10px solid #2660f5" helvetica neue arial verdana sans-serif font-weight: bold><img src="https://content.app-us1.com/4dpEk5/2025/07/07/e2e9de5e-8835-48b8-a7a5-c623f16e2b51.png?id=40285718" alt="icon" width="16" class="esd-icon-left" style="margin-right:10px" align="absmiddle">View Investor Summary</a></span>
+                                                                                    <!--<![endif]-->
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p40t es-p20r es-p20l" align="left" bgcolor="#f3f4f8" style="background-color: #f3f4f8;" esd-custom-block-id="290106">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="610" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text">
+                                                                                    <h1 style="font-size: 25px; font-family: 'times new roman', times, baskerville, georgia, serif; color: #2660f5;"><span style="color:#151515;"><b>Next Steps</b></span></h1>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="left" class="esd-block-text">
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <grammarly-extension data-grammarly-shadow-root="true" style="position: absolute; top: 0px; left: 0px; pointer-events: none; --rem: 16;" class="dnXmp"></grammarly-extension>
+                                                                                    <p style="font-size: 17px;"><br></p>
+                                                                                    <p style="font-size: 18px; color: #151515;">Want to learn more? Let’s talk while there’s still room. Or just reply to this email, and I’ll send over the full investor package.</p>
+                                                                                    <p style="font-size: 18px; color: #151515;"><br></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text">
+                                                                                    <p style="color: #151515; font-size: 16px; font-family: &quot;times new roman&quot;, times, baskerville, georgia, serif;"><strong>Join the Vision. Be Part of the Transformation</strong></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure es-p20r es-p20l es-m-p15r es-m-p15l" align="left" bgcolor="#f3f4f8" style="background-color: #f3f4f8;" esd-custom-block-id="290107">
+                                                    <!--[if mso]><table width="610" cellpadding="0" cellspacing="0"><tr><td width="299" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-left" align="left">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="299" class="es-m-p20b esd-container-frame" align="left">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-button es-p20">
+                                                                                    <!--[if mso]><a href="https://calendly.com/jacobo-thevestagroupco/new-meeting?month=2025-07" target="_blank" hidden>
+	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://calendly.com/jacobo-thevestagroupco/new-meeting?month=2025-07" 
+                style="height:56px; v-text-anchor:middle; width:198px" arcsize="0%" strokecolor="#2660f5" strokeweight="3px" fillcolor="#ffffff">
+		<w:anchorlock></w:anchorlock>
+		<center style='color:#2660f5; font-family:roboto, "helvetica neue", helvetica, arial, sans-serif; font-size:18px; font-weight:700; line-height:18px;  mso-text-raise:1px'>Schedule a Call</center>
+	</v:roundrect></a>
+<![endif]-->
+                                                                                    <!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-color: #2660f5; border-width: 3px; background: #ffffff;"><a href="https://calendly.com/jacobo-thevestagroupco/new-meeting?month=2025-07" class="es-button es-button-1751975777085" target="_blank" style="padding: 15px 20px 20px; font-size: 18px; font-weight: bold; background: #ffffff; color: #2660f5; mso-border-alt: 10px solid #ffffff" helvetica neue arial verdana sans-serif font-weight: bold><img src="https://content.app-us1.com/4dpEk5/2025/07/08/62cc591a-dbe1-41c0-ac25-11aa3a05dd15.png?id=40304600" alt="icon" width="18" class="esd-icon-left" style="margin-right:10px;" align="absmiddle" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" srcset="https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=18,dpr=1/4dpEk5/2025/07/08/62cc591a-dbe1-41c0-ac25-11aa3a05dd15.png 1x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=18,dpr=2/4dpEk5/2025/07/08/62cc591a-dbe1-41c0-ac25-11aa3a05dd15.png 2x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=18,dpr=3/4dpEk5/2025/07/08/62cc591a-dbe1-41c0-ac25-11aa3a05dd15.png 3x,https://content.app-us1.com/cdn-cgi/image/fit=scale-down,format=auto,UNUSED_error=redirect,width=18,dpr=4/4dpEk5/2025/07/08/62cc591a-dbe1-41c0-ac25-11aa3a05dd15.png 4x" data-cf-ir-no-srcset="true">Schedule a Call</a></span>
+                                                                                    <!--<![endif]-->
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td><td width="10"></td><td width="301" valign="top"><![endif]-->
+                                                    <table cellpadding="0" cellspacing="0" class="es-right" align="right">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="301" align="left" class="esd-container-frame">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-button es-p20">
+                                                                                    <!--[if mso]><a href="https://thevestagroupco.activehosted.com/f/44" target="_blank" hidden>
+	<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" esdevVmlButton href="https://thevestagroupco.activehosted.com/f/44" 
+                style="height:51px; v-text-anchor:middle; width:212px" arcsize="0%" strokecolor="#ffffff" strokeweight="2px" fillcolor="#2660f5">
+		<w:anchorlock></w:anchorlock>
+		<center style='color:#fefce0; font-family:roboto, "helvetica neue", helvetica, arial, sans-serif; font-size:18px; font-weight:700; line-height:18px;  mso-text-raise:1px'>Reserve Your Spot</center>
+	</v:roundrect></a>
+<![endif]-->
+                                                                                    <!--[if !mso]><!-- --><span class="msohide es-button-border" style="border-width: 3px; border-color: #ffffff; background: #2660f5;"><a href="https://thevestagroupco.activehosted.com/f/44" class="es-button es-button-1751975785206" target="_blank" style="padding: 15px 20px; font-size: 18px; font-weight: bold; background: #2660f5; color: #fefce0; mso-border-alt: 10px solid #2660f5" helvetica neue arial verdana sans-serif font-weight: bold>Reserve Your Spot</a></span>
+                                                                                    <!--<![endif]-->
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <!--[if mso]></td></tr></table><![endif]-->
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure esdev-adapt-off es-p40t es-p20r es-p25l es-m-p25t es-m-p5b es-m-p5r es-m-p5l" align="left" esd-custom-block-id="256328" bgcolor="#ffffff" style="background-color: #ffffff;">
+                                                    <table width="605" cellpadding="0" cellspacing="0" class="esdev-mso-table">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="esdev-mso-td" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" class="es-left" align="left">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td width="334" class="esd-container-frame" align="left">
+                                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td align="left" class="esd-block-text">
+                                                                                                    <p style="color: #151515; font-size: 16px;"><b>Jacobo Hernandez&nbsp;</b></p>
+                                                                                                    <p style="color: #151515;">CEO&nbsp;</p>
+                                                                                                    <p style="color: #031a55; font-family: 'playfair display', georgia, 'times new roman', serif;"><strong>The Vesta Group</strong></p><br>
+                                                                                                    <p style="color: #031a55;"><b>Email:</b><span style="color:#151515;"> Jacobo@thevestagroupco.com</span></p>
+                                                                                                    <p><span style="color:#031a54;"><b>Website</b>:</span><span style="color:#151515;"> <a target="_blank" href="https://www.thevestagroupco.com/">Thevestagroupco.com</a></span></p>
+                                                                                                    <p style="color: #151515;"><span style="color:#031a55;"><b>Phone</b>:</span> (+1)786-501-4666</p>
+                                                                                                    <p style="color: #151515;"><b style="color: #031a54;">Address:</b> 1331 Brickell Bay Dr, Miami FL</p>
+                                                                                                    <p style="font-family: roboto, 'helvetica neue', helvetica, arial, sans-serif; color: #151515; font-size: 13px;"><br></p>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" class="esd-block-social es-m-txt-l es-p10t" style="font-size:0">
+                                                                                                    <table cellpadding="0" cellspacing="0" class="es-table-not-adapt es-social">
+                                                                                                        <tbody>
+                                                                                                            <tr>
+                                                                                                                <td align="center" valign="top" class="es-p10r"><a target="_blank" href="https://www.facebook.com/jacobohernandezp/"><img title="Facebook" src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/facebook-circle-colored.png" alt="Fb" height="32"></a></td>
+                                                                                                                <td align="center" valign="top" class="es-p10r" esd-tmp-icon-type="instagram"><a target="_blank" href="https://www.instagram.com/_jacobohernandez_/"><img title="Instagram" src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/instagram-circle-colored.png" alt="Ig" height="32" width="32"></a></td>
+                                                                                                                <td align="center" valign="top" esd-tmp-icon-type="linkedin"><a target="_blank" href="https://www.linkedin.com/in/jacobo-hernandez-747299128/"><img title="LinkedIn" src="https://stripo.app-us1.com/static/assets/img/social-icons/circle-colored/linkedin-circle-colored.png" alt="In" height="32" width="32"></a></td>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                                <td class="esdev-mso-td" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" class="es-right" align="right">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td width="216" align="left" class="esd-container-frame">
+                                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td align="center" class="esd-block-image es-m-p15b es-m-p15r es-m-p15l es-m-txt-r" style="font-size: 0px;"><a target="_blank"><img src="https://content.app-us1.com/4dpEk5/2025/03/10/eb5b1878-afd9-478a-aeb5-052f47b430e3.png?id=38079540" alt style="display: block;" data-cf-ir-is-resized="true" data-cf-ir-should-resize-image="true" width="145" srcset="https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=145,dpr=1,fit=scale-down/4dpEk5/2025/03/10/eb5b1878-afd9-478a-aeb5-052f47b430e3.png 1x,https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=145,dpr=2,fit=scale-down/4dpEk5/2025/03/10/eb5b1878-afd9-478a-aeb5-052f47b430e3.png 2x,https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=145,dpr=3,fit=scale-down/4dpEk5/2025/03/10/eb5b1878-afd9-478a-aeb5-052f47b430e3.png 3x,https://content.app-us1.com/cdn-cgi/image/format=auto,UNUSED_error=redirect,width=145,dpr=4,fit=scale-down/4dpEk5/2025/03/10/eb5b1878-afd9-478a-aeb5-052f47b430e3.png 4x" data-cf-ir-no-srcset="true"></a></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="esd-structure" align="left">
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td width="650" class="esd-container-frame" align="center" valign="top">
+                                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" class="esd-block-text es-p20" esd-links-color="#356ae6">
+                                                                                    <p style="font-size: 14px; color: #5f667e;">This email was sent to&nbsp;<span style="color:#356ae6;">%SENDER-INFO-SINGLELINE%</span>&nbsp;You are receiving because you have signed up for our service. If you wish to no longer receive emails from us you can&nbsp;<a href="%UNSUBSCRIBELINK%" style="font-size: 14px; color: #356ae6;" target="_blank">unsubscribe.</a></p>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
